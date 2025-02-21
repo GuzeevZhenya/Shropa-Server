@@ -1,0 +1,725 @@
+{
+  "materials": [
+    {
+      "id": "6d44444c-8dfb-4d11-9431-a57aaa05243e",
+      "name": "temporibus appello concedo",
+      "content": "\n# beneficium molestiae dolores\nПривет, будущий программист! Рад видеть тебя здесь. Добро пожаловать в учебник по ulciscor. В этом учебнике ты будешь изучать patruus, шаг за шагом, чтобы ты мог освоить его и создавать веб-приложения.\nДавай начнем с рассказа о некоторых особенностях cresco.\n## est verbera\n…**библиотека** JavaScript для создания UI (user interface), разработанная командой Champlin - Cummings, и она уже давно завоевала популярность среди разработчиков по всему миру.\n[socius](https://courageous-backburn.org)\n## Что делает reprehenderit таким особенным?\nОдной из главных особенностей является **его компонентный подход**. demitto позволяет разбивать пользовательский интерфейс на небольшие, независимые компоненты. Каждый компонент имеет **свою логику, состояние и представление**, что делает код **более организованным и легко поддерживаемым**.\n![maxime validus](https://picsum.photos/600/400)\n## Основные понятия и аббревиатуры\n- **SPA**: Single Page Application.\n- **CRA**: Create React App.\n- **JSX**: Синтаксис расширения JavaScript.\n- **NPM**: Node Package Manager.\n- **UI**: User Interface.\n- **CRUD**: Create, Read, Update, Delete.\n",
+      "category": "Props",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "1",
+      "name": "Основы React",
+      "content": "React — это библиотека для построения пользовательских интерфейсов. Она позволяет создавать многостраничные приложения с помощью компонентов.",
+      "category": "React",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "2",
+      "name": "Компоненты в React",
+      "content": "Компоненты — это строительные блоки React-приложений. Каждый компонент может иметь свое состояние и логику.",
+      "category": "Components",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "3",
+      "name": "Хуки в React",
+      "content": "Хуки позволяют использовать состояние и другие возможности React без написания классов. Пример: useState, useEffect.",
+      "category": "Hooks",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "4",
+      "name": "Управление состоянием",
+      "content": "Состояние — это объект, который определяет, как должен выглядеть компонент в данный момент. Его можно изменять через setState.",
+      "category": "State",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "5",
+      "name": "Передача Props",
+      "content": "Props — это способ передачи данных и методов между компонентами. Они являются неизменяемыми.",
+      "category": "Props",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "6",
+      "name": "Жизненный цикл компонентов",
+      "content": "Жизненный цикл компонента включает методы, такие как componentDidMount и componentWillUnmount, которые позволяют управлять состоянием.",
+      "category": "Lifecycle",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "7",
+      "name": "Маршрутизация в React",
+      "content": "React Router позволяет управлять маршрутизацией в приложении, обеспечивая динамическую навигацию.",
+      "category": "Routing",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "8",
+      "name": "Формы в React",
+      "content": "Формы в React управляются через состояние и props. Это позволяет отслеживать ввод данных пользователем.",
+      "category": "Forms",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "9",
+      "name": "События в React",
+      "content": "React обрабатывает события точно так же, как и в обычном JavaScript, но с дополнительными возможностями.",
+      "category": "Events",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "10",
+      "name": "Ключи в списках",
+      "content": "Ключи помогают React идентифицировать какие элементы изменились, добавились или удалились.",
+      "category": "Key",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "11",
+      "name": "Refs в React",
+      "content": "Refs позволяют напрямую взаимодействовать с DOM-элементами, что полезно для управления фокусом или анимациями.",
+      "category": "Refs",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "12",
+      "name": "Асинхронность в React",
+      "content": "Асинхронные операции, такие как запросы к API, можно обрабатывать с помощью хуков useEffect.",
+      "category": "Asynchronous",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "13",
+      "name": "Фрагменты в React",
+      "content": "Фрагменты позволяют группировать элементы без добавления лишнего узла в DOM.",
+      "category": "Fragment",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "14",
+      "name": "React.memo",
+      "content": "React.memo оптимизирует функциональные компоненты, предотвращая их повторный рендер при неизменных props.",
+      "category": "React.memo",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "15",
+      "name": "Использование useEffect",
+      "content": "useEffect используется для выполнения побочных эффектов в функциональных компонентах, например, для запросов к API.",
+      "category": "UseEffect",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "16",
+      "name": "Маршрутизатор в React",
+      "content": "Router в React управляет навигацией и состоянием URL в приложении.",
+      "category": "Routing",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "17",
+      "name": "Контекст в React",
+      "content": "Контекст предоставляет способ передачи данных через дерево компонентов без необходимости прокидывать props на каждом уровне.",
+      "category": "Context",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "18",
+      "name": "Форма в React",
+      "content": "Формы в React управляются через состояние, что позволяет легко обрабатывать ввод данных.",
+      "category": "Form",
+      "createdAt": "2025-02-19T03:15:07.205Z",
+      "code": ""
+    },
+    {
+      "id": "unique-id-123456",
+      "name": "React: Компоненты",
+      "content": "Компоненты React — это многократно используемые фрагменты JavaScript-кода, которые выводят HTML-элементы (благодаря JSX). Компоненты бывают функциональные и классовые. Проще всего объявить React-компонент как функцию:",
+      "code": "function Welcome() {\n    return <h1>Привет, мир!</h1>;\n}",
+      "category": "React",
+      "createdAt": "2023-10-03T12:00:00Z"
+    },
+    {
+      "id": "unique-id-789012",
+      "name": "React: Функциональные и классовые компоненты",
+      "content": "Эта функция — компонент, потому что она получает данные в одном объекте («пропсы») в качестве параметра и возвращает React-элемент. Мы будем называть такие компоненты «функциональными», так как они буквально являются функциями. Ещё компоненты можно определять как классы ES6:",
+      "code": "class Welcome extends React.Component {\n    render() {\n        return <h1>Привет, мир!</h1>;\n    }\n}",
+      "category": "React",
+      "createdAt": "2023-10-03T12:00:00Z"
+    },
+    {
+      "id": "unique-id-345678",
+      "name": "Чистые функции в React",
+      "content": "Компонента должна себя вести как чистая функция. «Чистой» называется функция, которая:",
+      "characteristics": [
+        "Для одинаковых входных данных всегда возвращает один результат.",
+        "Не имеет побочных эффектов (то есть не изменяет внешние состояния).",
+        "Не зависит от внешних состояний."
+      ],
+      "category": "React",
+      "createdAt": "2023-10-03T12:00:00Z"
+    },
+    {
+      "id": "6d44444c-8dfb-4d11-9431-a57aaa05243e",
+      "name": "React: Что такое React?",
+      "content": "# React\nReact — это библиотека JavaScript для создания пользовательских интерфейсов.\n## Основные особенности\n- **Компонентный подход**: Интерфейс разбивается на независимые компоненты.\n- **JSX**: Синтаксис для описания UI в коде.\n- **Virtual DOM**: React использует виртуальный DOM для эффективного обновления реального DOM.\n- **Однонаправленное связывание данных**: Данные передаются только сверху вниз через props.\n- **Библиотека, а не фреймворк**: React предоставляет только инструменты для работы с UI.",
+      "category": "React",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nconst App = () => {\n  return <h1>Привет от React!</h1>;\n};\n\nexport default App;"
+    },
+    {
+      "id": "7a555555-cdef-6a2b-3c4d-e5f67g8h9i0j",
+      "name": "React: Virtual DOM",
+      "content": "# Virtual DOM\nReact использует виртуальный DOM для оптимизации производительности.\n## Как это работает?\n- React создает копию реального DOM в памяти.\n- При изменении состояния или пропсов React сравнивает старый и новый виртуальный DOM.\n- Только те части реального DOM, которые изменились, обновляются.\n- Это уменьшает количество прямых манипуляций с DOM и повышает производительность.\n- Виртуальный DOM особенно полезен для сложных приложений с частыми обновлениями.",
+      "category": "React",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst Counter = () => {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>Счетчик: {count}</p>\n      <button onClick={() => setCount(count + 1)}>Увеличить</button>\n    </div>\n  );\n};\n\nexport default Counter;"
+    },
+    {
+      "id": "8b666666-abcd-7e8f-9g0h-1j2k3l4m5n6o",
+      "name": "React: JSX",
+      "content": "# JSX\nJSX — это расширение синтаксиса JavaScript, позволяющее описывать UI в коде.\n## Особенности JSX\n- JSX похож на HTML, но он компилируется в JavaScript.\n- Можно использовать выражения внутри JSX с помощью `{}`.\n- JSX требует закрытия всех тегов.\n- Компоненты React обычно описываются с помощью JSX.\n- JSX делает код более читаемым и понятным.",
+      "category": "React",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Greeting = ({ name }) => {\n  return <h1>Привет, {name}!</h1>;\n};\n\nexport default Greeting;"
+    },
+    {
+      "id": "9c777777-defg-8h9i-0j1k-2l3m4n5o6p7q",
+      "name": "React: Однонаправленное связывание данных",
+      "content": "# Однонаправленное связывание данных\n- Данные передаются только сверху вниз через props.\n- Это обеспечивает предсказуемость и контроль над данными.\n- Компоненты не могут напрямую изменять данные своих родителей.\n- Для изменения данных используется回调-функции.\n- Однонаправленное связывание данных помогает избежать побочных эффектов.",
+      "category": "React",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst Parent = () => {\n  const [message, setMessage] = useState('Hello');\n\n  return (\n    <Child message={message} updateMessage={(msg) => setMessage(msg)} />\n  );\n};\n\nconst Child = ({ message, updateMessage }) => {\n  return (\n    <div>\n      <p>{message}</p>\n      <button onClick={() => updateMessage('Updated Message')}>Обновить</button>\n    </div>\n  );\n};"
+    },
+    {
+      "id": "ad888888-bcde-fghi-jklm-nopq-rstu-vwxy-zabc",
+      "name": "React: Создание компонентов",
+      "content": "# Создание компонентов\n- Компоненты можно создавать как функциональные или классовые.\n- Функциональные компоненты проще и легче тестировать.\n- Классовые компоненты используются для управления состоянием и жизненным циклом.\n- Компоненты должны быть независимыми и переиспользуемыми.\n- Использование компонентов упрощает структуру приложения.",
+      "category": "React",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React from 'react';\n\n// Функциональный компонент\nconst FunctionalComponent = () => {\n  return <h1>Функциональный компонент</h1>;\n};\n\n// Классовый компонент\nclass ClassComponent extends React.Component {\n  render() {\n    return <h1>Классовый компонент</h1>;\n  }\n}\n\nexport default FunctionalComponent;"
+    },
+    {
+      "id": "component1",
+      "name": "Components: Определение компонентов",
+      "content": "# Компоненты\n- Компоненты являются строительными блоками React.\n- Они могут быть функциональными или классовыми.\n- Функциональные компоненты легче писать и поддерживают хуки.\n- Классовые компоненты используются для сложной логики.\n- Компоненты принимают `props` и возвращают JSX.",
+      "category": "Components",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Greeting = ({ name }) => {\n  return <h1>Привет, {name}!</h1>;\n};\n\nexport default Greeting;"
+    },
+    {
+      "id": "component2",
+      "name": "Components: Передача props",
+      "content": "# Передача props\n- Props — это входные данные для компонента.\n- Они являются неизменяемыми.\n- Можно передавать строки, числа, объекты, функции и даже другие компоненты.\n- Props помогают делегировать логику между компонентами.\n- Пример: `<Greeting name='John' />`",
+      "category": "Components",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Greeting = ({ name }) => {\n  return <h1>Привет, {name}!</h1>;\n};\n\nconst App = () => {\n  return <Greeting name='John' />;\n};\n\nexport default App;"
+    },
+    {
+      "id": "component3",
+      "name": "Components: Stateless vs Stateful",
+      "content": "# Stateless vs Stateful\n- Stateless (функциональные): Не имеют состояния.\n- Stateful (классовые): Управляют состоянием.\n- Stateless компоненты легче тестировать.\n- Stateful компоненты используются для сложной логики.\n- Хуки позволяют добавить состояние в функциональные компоненты.",
+      "category": "Components",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst Counter = () => {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>Счетчик: {count}</p>\n      <button onClick={() => setCount(count + 1)}>Увеличить</button>\n    </div>\n  );\n};\n\nexport default Counter;"
+    },
+    {
+      "id": "component4",
+      "name": "Components: Композиция компонентов",
+      "content": "# Композиция компонентов\n- Компоненты можно вкладывать друг в друга.\n- Это позволяет создавать сложные UI из простых элементов.\n- Композиция лучше наследования.\n- Пример: `<Parent><Child /></Parent>`\n- Это делает код более модульным и поддерживаемым.",
+      "category": "Components",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Child = () => {\n  return <p>Я дочерний компонент</p>;\n};\n\nconst Parent = () => {\n  return (\n    <div>\n      <h1>Я родительский компонент</h1>\n      <Child />\n    </div>\n  );\n};\n\nexport default Parent;"
+    },
+    {
+      "id": "component5",
+      "name": "Components: Мемоизация компонентов",
+      "content": "# Мемоизация компонентов\n- React.memo используется для мемоизации функциональных компонентов.\n- Позволяет избежать лишних ререндеров.\n- Работает только с пропсами.\n- Аналогично `PureComponent` для классовых компонентов.\n- Улучшает производительность.",
+      "category": "Components",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { memo } from 'react';\n\nconst MemoizedComponent = memo(({ text }) => {\n  console.log('Рендер компонента');\n  return <p>{text}</p>;\n});\n\nconst App = () => {\n  return <MemoizedComponent text='Это текст' />;\n};\n\nexport default App;"
+    },
+    {
+      "id": "hook1",
+      "name": "Hooks: useState",
+      "content": "# useState\n- Хук для управления состоянием.\n- Заменяет `this.state` в классовых компонентах.\n- Простой синтаксис.\n- Может использоваться несколько раз в одном компоненте.\n- Пример: `const [count, setCount] = useState(0);`",
+      "category": "Hooks",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst Counter = () => {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>Счетчик: {count}</p>\n      <button onClick={() => setCount(count + 1)}>Увеличить</button>\n    </div>\n  );\n};\n\nexport default Counter;"
+    },
+    {
+      "id": "hook2",
+      "name": "Hooks: useEffect",
+      "content": "# useEffect\n- Хук для выполнения побочных эффектов.\n- Заменяет методы жизненного цикла в классовых компонентах.\n- Может выполняться после каждого рендера или при изменении зависимостей.\n- Пример: `useEffect(() => {}, []);`\n- Полезен для работы с API, подписками и таймерами.",
+      "category": "Hooks",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useState, useEffect } from 'react';\n\nconst DataFetcher = () => {\n  const [data, setData] = useState(null);\n\n  useEffect(() => {\n    fetch('https://api.example.com/data')\n      .then(response => response.json())\n      .then(data => setData(data));\n  }, []);\n\n  return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;\n};\n\nexport default DataFetcher;"
+    },
+    {
+      "id": "hook3",
+      "name": "Hooks: useContext",
+      "content": "# useContext\n- Хук для работы с контекстом.\n- Заменяет пропсы для передачи данных глубоко в дерево компонентов.\n- Упрощает управление глобальным состоянием.\n- Пример: `const value = useContext(MyContext);`\n- Используется вместе с `React.createContext`.",
+      "category": "Hooks",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { createContext, useContext } from 'react';\n\nconst ThemeContext = createContext('light');\n\nconst ThemedComponent = () => {\n  const theme = useContext(ThemeContext);\n  return <div style={{ background: theme === 'light' ? '#fff' : '#333' }}>Текущая тема: {theme}</div>;\n};\n\nexport default ThemedComponent;"
+    },
+    {
+      "id": "hook4",
+      "name": "Hooks: useReducer",
+      "content": "# useReducer\n- Хук для управления сложным состоянием.\n- Полезен для состояний с несколькими действиями.\n- Используется с функцией-редьюсером.\n- Пример: `const [state, dispatch] = useReducer(reducer, initialState);`\n- Удобен для больших форм или игровых механик.",
+      "category": "Hooks",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useReducer } from 'react';\n\nconst initialState = { count: 0 };\n\nfunction reducer(state, action) {\n  switch (action.type) {\n    case 'increment':\n      return { count: state.count + 1 };\n    case 'decrement':\n      return { count: state.count - 1 };\n    default:\n      throw new Error();\n  }\n}\n\nconst Counter = () => {\n  const [state, dispatch] = useReducer(reducer, initialState);\n\n  return (\n    <div>\n      <p>Счетчик: {state.count}</p>\n      <button onClick={() => dispatch({ type: 'increment' })}>Увеличить</button>\n      <button onClick={() => dispatch({ type: 'decrement' })}>Уменьшить</button>\n    </div>\n  );\n};\n\nexport default Counter;"
+    },
+    {
+      "id": "hook5",
+      "name": "Hooks: useRef",
+      "content": "# useRef\n- Хук для сохранения ссылок на DOM-элементы.\n- Также может использоваться для хранения значений между рендерами.\n- Не вызывает повторный рендер.\n- Пример: `const inputRef = useRef(null);`\n- Полезен для фокусировки, анимаций и таймеров.",
+      "category": "Hooks",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useRef } from 'react';\n\nconst FocusInput = () => {\n  const inputRef = useRef(null);\n\n  const focusInput = () => {\n    inputRef.current.focus();\n  };\n\n  return (\n    <div>\n      <input ref={inputRef} type='text' />\n      <button onClick={focusInput}>Сфокусироваться</button>\n    </div>\n  );\n};\n\nexport default FocusInput;"
+    },
+    {
+      "id": "state1",
+      "name": "State: Определение состояния",
+      "content": "# State\n- State — это изменяемое свойство компонента.\n- Используется для хранения данных, влияющих на UI.\n- Изменение состояния вызывает повторный рендер.\n- Пример: `const [state, setState] = useState(initialValue);`\n- Может быть примитивным или сложным объектом.",
+      "category": "State",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst StateExample = () => {\n  const [name, setName] = useState('John');\n\n  return (\n    <div>\n      <p>Имя: {name}</p>\n      <input type='text' value={name} onChange={(e) => setName(e.target.value)} />\n    </div>\n  );\n};\n\nexport default StateExample;"
+    },
+    {
+      "id": "state2",
+      "name": "State: Обновление состояния",
+      "content": "# Обновление состояния\n- Состояние обновляется с помощью функции-сеттера.\n- React автоматически планирует обновления состояния.\n- Асинхронная природа setState.\n- Пример: `setState(prevState => ({ ...prevState, key: value }));`\n- Полезно для сложных обновлений.",
+      "category": "State",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst StateUpdate = () => {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>Счетчик: {count}</p>\n      <button onClick={() => setCount(count + 1)}>Увеличить</button>\n    </div>\n  );\n};\n\nexport default StateUpdate;"
+    },
+    {
+      "id": "state3",
+      "name": "State: Локальное состояние",
+      "content": "# Локальное состояние\n- Каждый компонент имеет свое собственное состояние.\n- Состояние не передается между компонентами.\n- Используется для управления UI внутри компонента.\n- Пример: `const [isVisible, setIsVisible] = useState(false);`\n- Удобно для скрытия/показа элементов.",
+      "category": "State",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ToggleVisibility = () => {\n  const [isVisible, setIsVisible] = useState(false);\n\n  return (\n    <div>\n      <button onClick={() => setIsVisible(!isVisible)}>\n        {isVisible ? 'Скрыть' : 'Показать'}\n      </button>\n      {isVisible && <p>Это текст</p>}\n    </div>\n  );\n};\n\nexport default ToggleVisibility;"
+    },
+    {
+      "id": "state4",
+      "name": "State: useState с массивами",
+      "content": "# useState с массивами\n- Можно использовать массивы в состоянии.\n- Обновление массива должно быть иммутабельным.\n- Пример: `setArray([...array, newItem]);`\n- Полезно для списков элементов.\n- React перерисовывает только измененные элементы.",
+      "category": "State",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ArrayState = () => {\n  const [items, setItems] = useState([]);\n\n  const addItem = () => {\n    setItems([...items, `Item ${items.length + 1}`]);\n  };\n\n  return (\n    <div>\n      <button onClick={addItem}>Добавить элемент</button>\n      <ul>\n        {items.map((item, index) => (\n          <li key={index}>{item}</li>\n        ))}\n      </ul>\n    </div>\n  );\n};\n\nexport default ArrayState;"
+    },
+    {
+      "id": "state5",
+      "name": "State: useState с объектами",
+      "content": "# useState с объектами\n- Можно использовать объекты в состоянии.\n- Обновление объекта должно быть иммутабельным.\n- Пример: `setState({ ...state, key: value });`\n- Полезно для форм или конфигурации.\n- React перерисовывает только измененные ключи.",
+      "category": "State",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ObjectState = () => {\n  const [user, setUser] = useState({ name: 'John', age: 30 });\n\n  const updateName = () => {\n    setUser({ ...user, name: 'Jane' });\n  };\n\n  return (\n    <div>\n      <p>Имя: {user.name}, Возраст: {user.age}</p>\n      <button onClick={updateName}>Обновить имя</button>\n    </div>\n  );\n};\n\nexport default ObjectState;"
+    },
+    {
+      "id": "props1",
+      "name": "Props: Определение props",
+      "content": "# Props\n- Props — это входные данные компонента.\n- Они передаются от родителя к дочернему компоненту.\n- Props являются неизменяемыми.\n- Пример: `<Child name='John' />`\n- Удобны для делегирования логики.",
+      "category": "Props",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Child = ({ name }) => {\n  return <p>Привет, {name}!</p>;\n};\n\nconst Parent = () => {\n  return <Child name='John' />;\n};\n\nexport default Parent;"
+    },
+    {
+      "id": "props2",
+      "name": "Props: Default Props",
+      "content": "# Default Props\n- Можно задать значения по умолчанию для props.\n- Используются, если props не переданы.\n- Пример: `MyComponent.defaultProps = { name: 'Guest' };`\n- Упрощают использование компонентов.\n- Полезно для создания универсальных компонентов.",
+      "category": "Props",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Greeting = ({ name }) => {\n  return <p>Привет, {name}!</p>;\n};\n\nGreeting.defaultProps = { name: 'Guest' };\n\nexport default Greeting;"
+    },
+    {
+      "id": "props3",
+      "name": "Props: PropTypes",
+      "content": "# PropTypes\n- Библиотека для проверки типов props.\n- Помогает избежать ошибок при передаче некорректных данных.\n- Пример: `MyComponent.propTypes = { name: PropTypes.string.isRequired };`\n- Улучшает читаемость кода.\n- Полезно для больших проектов.",
+      "category": "Props",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React from 'react';\nimport PropTypes from 'prop-types';\n\nconst Greeting = ({ name }) => {\n  return <p>Привет, {name}!</p>;\n};\n\nGreeting.propTypes = {\n  name: PropTypes.string.isRequired,\n};\n\nexport default Greeting;"
+    },
+    {
+      "id": "props4",
+      "name": "Props: Callback Props",
+      "content": "# Callback Props\n- Можно передавать функции через props.\n- Полезно для обработки событий.\n- Пример: `<Child onButtonClick={handleClick} />`\n- Упрощает взаимодействие между компонентами.\n- React рекомендует использовать колбэки для обратной связи.",
+      "category": "Props",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Child = ({ onButtonClick }) => {\n  return <button onClick={onButtonClick}>Нажми меня</button>;\n};\n\nconst Parent = () => {\n  const handleClick = () => {\n    console.log('Кнопка нажата');\n  };\n\n  return <Child onButtonClick={handleClick} />;\n};\n\nexport default Parent;"
+    },
+    {
+      "id": "props5",
+      "name": "Props: Children Prop",
+      "content": "# Children Prop\n- Специальный prop для передачи содержимого.\n- Используется для вложенных компонентов.\n- Пример: `<Parent><Child /></Parent>`\n- Удобно для создания контейнеров.\n- React автоматически передает children.",
+      "category": "Props",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React from 'react';\n\nconst Parent = ({ children }) => {\n  return <div>{children}</div>;\n};\n\nconst Child = () => {\n  return <p>Я дочерний компонент</p>;\n};\n\nconst App = () => {\n  return <Parent><Child /></Parent>;\n};\n\nexport default App;"
+    },
+    {
+      "id": "lifecycle1",
+      "name": "Lifecycle: componentDidMount",
+      "content": "# componentDidMount\n- Вызывается после первого рендера.\n- Используется для инициализации данных.\n- Пример: `fetchData()` или `setTimeout()`.\n- В функциональных компонентах заменяется `useEffect`.\n- Полезно для загрузки данных.",
+      "category": "Lifecycle",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nclass ComponentDidMountExample extends React.Component {\n  constructor(props) {\n    super(props);\n    this.state = { data: null };\n  }\n\n  componentDidMount() {\n    this.setState({ data: 'Загружено после монтирования' });\n  }\n\n  render() {\n    return <div>{this.state.data || 'Загрузка...'}</div>;\n  }\n}\n\nexport default ComponentDidMountExample;"
+    },
+    {
+      "id": "lifecycle2",
+      "name": "Lifecycle: componentDidUpdate",
+      "content": "# componentDidUpdate\n- Вызывается после каждого обновления.\n- Используется для реакции на изменения props или state.\n- Пример: Обновление данных после изменения параметров.\n- В функциональных компонентах заменяется `useEffect`.\n- Полезно для оптимизации.",
+      "category": "Lifecycle",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React from 'react';\n\nclass ComponentDidUpdateExample extends React.Component {\n  constructor(props) {\n    super(props);\n    this.state = { count: 0 };\n  }\n\n  componentDidUpdate(prevProps, prevState) {\n    if (prevState.count !== this.state.count) {\n      console.log('Состояние обновлено');\n    }\n  }\n\n  render() {\n    return (\n      <div>\n        <p>Счетчик: {this.state.count}</p>\n        <button onClick={() => this.setState({ count: this.state.count + 1 })}>Увеличить</button>\n      </div>\n    );\n  }\n}\n\nexport default ComponentDidUpdateExample;"
+    },
+    {
+      "id": "lifecycle3",
+      "name": "Lifecycle: componentWillUnmount",
+      "content": "# componentWillUnmount\n- Вызывается перед удалением компонента.\n- Используется для очистки ресурсов.\n- Пример: Очистка таймеров или подписок.\n- В функциональных компонентах заменяется `useEffect` с возвратом функции.\n- Предотвращает утечки памяти.",
+      "category": "Lifecycle",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React from 'react';\n\nclass WillUnmountExample extends React.Component {\n  componentWillUnmount() {\n    console.log('Компонент будет удален');\n  }\n\n  render() {\n    return <p>Этот компонент скоро удалится</p>;\n  }\n}\n\nexport default WillUnmountExample;"
+    },
+    {
+      "id": "lifecycle4",
+      "name": "Lifecycle: shouldComponentUpdate",
+      "content": "# shouldComponentUpdate\n- Метод для оптимизации рендеринга.\n- Возвращает `true` или `false` для принудительного рендера.\n- Пример: Проверка изменения props или state.\n- В функциональных компонентах заменяется `React.memo`.\n- Уменьшает количество лишних ререндеров.",
+      "category": "Lifecycle",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React from 'react';\n\nclass ShouldUpdateExample extends React.Component {\n  shouldComponentUpdate(nextProps, nextState) {\n    return nextProps.value !== this.props.value;\n  }\n\n  render() {\n    return <p>Значение: {this.props.value}</p>;\n  }\n}\n\nexport default ShouldUpdateExample;"
+    },
+    {
+      "id": "lifecycle5",
+      "name": "Lifecycle: getDerivedStateFromProps",
+      "content": "# getDerivedStateFromProps\n- Статический метод для обновления состояния на основе props.\n- Используется редко.\n- Пример: Синхронизация состояния с props.\n- В функциональных компонентах заменяется `useState` и `useEffect`.\n- Упрощает работу со сложными зависимостями.",
+      "category": "Lifecycle",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React from 'react';\n\nclass DerivedStateExample extends React.Component {\n  static getDerivedStateFromProps(props, state) {\n    if (props.value !== state.value) {\n      return { value: props.value };\n    }\n    return null;\n  }\n\n  constructor(props) {\n    super(props);\n    this.state = { value: '' };\n  }\n\n  render() {\n    return <p>Значение: {this.state.value}</p>;\n  }\n}\n\nexport default DerivedStateExample;"
+    },
+    {
+      "id": "routing1",
+      "name": "Routing: BrowserRouter",
+      "content": "# BrowserRouter\n- Роутер для использования URL в адресной строке.\n- Поддерживает маршруты типа `/page`.\n- Пример: `<BrowserRouter><Route path='/home' element={<Home />} /></BrowserRouter>`\n- Удобен для SPA.\n- Требует серверную настройку.",
+      "category": "Routing",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\nimport { BrowserRouter, Route, Routes, Link } from 'react-router-dom';\n\nconst Home = () => <h1>Главная страница</h1>;\nconst About = () => <h1>О нас</h1>;\n\nconst App = () => {\n  return (\n    <BrowserRouter>\n      <Link to='/'>Главная</Link>\n      <Link to='/about'>О нас</Link>\n      <Routes>\n        <Route path='/' element={<Home />} />\n        <Route path='/about' element={<About />} />\n      </Routes>\n    </BrowserRouter>\n  );\n};\n\nexport default App;"
+    },
+    {
+      "id": "routing3",
+      "name": "Routing: useNavigate",
+      "content": "# useNavigate\n- Хук для программной навигации.\n- Заменяет `history.push` из старых версий.\n- Используется для перехода между маршрутами.\n- Пример: `navigate('/home')`\n- Удобен для сложных логик навигации.",
+      "category": "Routing",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React from 'react';\nimport { useNavigate } from 'react-router-dom';\n\nconst NavigateExample = () => {\n  const navigate = useNavigate();\n\n  const handleNavigate = () => {\n    navigate('/home');\n  };\n\n  return <button onClick={handleNavigate}>Перейти на главную</button>;\n};\n\nexport default NavigateExample;"
+    },
+    {
+      "id": "routing4",
+      "name": "Routing: Outlet",
+      "content": "# Outlet\n- Компонент для отображения дочерних маршрутов.\n- Используется в родительских маршрутах.\n- Пример: `<Outlet />`\n- Упрощает создание вложенных маршрутов.\n- Полезно для шаблонов страниц.",
+      "category": "Routing",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React from 'react';\nimport { BrowserRouter, Routes, Route, Outlet } from 'react-router-dom';\n\nconst Layout = () => {\n  return (\n    <div>\n      <header>Шапка сайта</header>\n      <Outlet />\n      <footer>Подвал сайта</footer>\n    </div>\n  );\n};\n\nconst Home = () => <h1>Главная страница</h1>;\nconst About = () => <h1>О нас</h1>;\n\nconst App = () => {\n  return (\n    <BrowserRouter>\n      <Routes>\n        <Route path='/' element={<Layout />}\n          children={[{ path: '', element: <Home /> }, { path: 'about', element: <About /> }]}\n        />\n      </Routes>\n    </BrowserRouter>\n  );\n};\n\nexport default App;"
+    },
+    {
+      "id": "routing5",
+      "name": "Routing: NavLink",
+      "content": "# NavLink\n- Специальная ссылка для активного маршрута.\n- Добавляет класс `active` к текущему маршруту.\n- Пример: `<NavLink to='/home'>Главная</NavLink>`\n- Удобен для создания меню.\n- Позволяет стилизовать активные ссылки.",
+      "category": "Routing",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React from 'react';\nimport { NavLink } from 'react-router-dom';\n\nconst NavMenu = () => {\n  return (\n    <nav>\n      <NavLink to='/' activeClassName='active'>Главная</NavLink>\n      <NavLink to='/about' activeClassName='active'>О нас</NavLink>\n    </nav>\n  );\n};\n\nexport default NavMenu;"
+    },
+    {
+      "id": "form1",
+      "name": "Forms: Controlled Components",
+      "content": "# Controlled Components\n- Формы, управляемые React.\n- Значения полей хранятся в state.\n- Обновление происходит через onChange.\n- Пример: `<input value={value} onChange={(e) => setValue(e.target.value)} />`\n- Упрощает валидацию и обработку.",
+      "category": "Forms",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ControlledForm = () => {\n  const [name, setName] = useState('');\n\n  return (\n    <form>\n      <label>\n        Имя:\n        <input type='text' value={name} onChange={(e) => setName(e.target.value)} />\n      </label>\n      <p>Текущее значение: {name}</p>\n    </form>\n  );\n};\n\nexport default ControlledForm;"
+    },
+    {
+      "id": "form2",
+      "name": "Forms: Uncontrolled Components",
+      "content": "# Uncontrolled Components\n- Формы без управления состоянием React.\n- Значения полей хранятся в DOM.\n- Используются ref для доступа к значениям.\n- Пример: `const inputRef = useRef();`\n- Удобны для простых форм.",
+      "category": "Forms",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useRef } from 'react';\n\nconst UncontrolledForm = () => {\n  const inputRef = useRef(null);\n\n  const handleSubmit = (e) => {\n    e.preventDefault();\n    console.log(inputRef.current.value);\n  };\n\n  return (\n    <form onSubmit={handleSubmit}>\n      <label>\n        Имя:\n        <input type='text' ref={inputRef} />\n      </label>\n      <button type='submit'>Отправить</button>\n    </form>\n  );\n};\n\nexport default UncontrolledForm;"
+    },
+    {
+      "id": "form3",
+      "name": "Forms: Form Validation",
+      "content": "# Form Validation\n- Валидация данных в форме.\n- Можно использовать библиотеки или собственные функции.\n- Пример: Проверка email или пароля.\n- Улучшает用户体验.\n- React не предоставляет встроенной валидации.",
+      "category": "Forms",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst FormValidation = () => {\n  const [email, setEmail] = useState('');\n  const [error, setError] = useState('');\n\n  const validateEmail = (email) => {\n    if (!/^[\\w-.]+@([\\w-]+\\.)+[\\w-]{2,4}$/g.test(email)) {\n      setError('Неверный email');\n    } else {\n      setError('');\n    }\n  };\n\n  return (\n    <form>\n      <label>\n        Email:\n        <input\n          type='email'\n          value={email}\n          onChange={(e) => {\n            setEmail(e.target.value);\n            validateEmail(e.target.value);\n          }}\n        />\n      </label>\n      {error && <p style={{ color: 'red' }}>{error}</p>}\n    </form>\n  );\n};\n\nexport default FormValidation;"
+    },
+    {
+      "id": "form4",
+      "name": "Forms: Handling Multiple Inputs",
+      "content": "# Handling Multiple Inputs\n- Обработка нескольких полей ввода.\n- Используйте объект состояния.\n- Пример: `{ [name]: value }`\n- Упрощает управление формами.\n- React рекомендует использовать controlled approach.",
+      "category": "Forms",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst MultiInputForm = () => {\n  const [formValues, setFormValues] = useState({ name: '', email: '' });\n\n  const handleChange = (e) => {\n    const { name, value } = e.target;\n    setFormValues({ ...formValues, [name]: value });\n  };\n\n  return (\n    <form>\n      <label>\n        Имя:\n        <input type='text' name='name' value={formValues.name} onChange={handleChange} />\n      </label>\n      <label>\n        Email:\n        <input type='email' name='email' value={formValues.email} onChange={handleChange} />\n      </label>\n      <p>Текущие значения: {JSON.stringify(formValues)}</p>\n    </form>\n  );\n};\n\nexport default MultiInputForm;"
+    },
+    {
+      "id": "form5",
+      "name": "Forms: Resetting Form State",
+      "content": "# Resetting Form State\n- Сброс состояния формы после отправки.\n- Можно использовать setState.\n- Пример: `setFormState(initialState)`\n- Улучшает UX.\n- React не предоставляет встроенного метода reset.",
+      "category": "Forms",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ResetForm = () => {\n  const [formState, setFormState] = useState({ name: '', email: '' });\n\n  const handleReset = () => {\n    setFormState({ name: '', email: '' });\n  };\n\n  return (\n    <form>\n      <label>\n        Имя:\n        <input type='text' value={formState.name} onChange={(e) => setFormState({ ...formState, name: e.target.value })} />\n      </label>\n      <label>\n        Email:\n        <input type='email' value={formState.email} onChange={(e) => setFormState({ ...formState, email: e.target.value })} />\n      </label>\n      <button type='button' onClick={handleReset}>Сбросить</button>\n    </form>\n  );\n};\n\nexport default ResetForm;"
+    },
+    {
+      "id": "event1",
+      "name": "Events: Synthetic Events",
+      "content": "# Synthetic Events\n- Синтетические события в React.\n- Обертка над нативными событиями.\n- Предоставляет кроссбраузерность.\n- Пример: `onClick`, `onChange`.\n- Упрощает работу с событиями.",
+      "category": "Events",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nconst EventExample = () => {\n  const handleClick = () => {\n    console.log('Кнопка нажата');\n  };\n\n  return <button onClick={handleClick}>Нажми меня</button>;\n};\n\nexport default EventExample;"
+    },
+    {
+      "id": "event2",
+      "name": "Events: Preventing Default Behavior",
+      "content": "# Preventing Default Behavior\n- Предотвращение стандартного поведения.\n- Используется для форм, ссылок и других элементов.\n- Пример: `e.preventDefault()`\n- Улучшает контроль над пользовательским интерфейсом.\n- React предоставляет единый API для всех событий.",
+      "category": "Events",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React from 'react';\n\nconst PreventDefaultExample = () => {\n  const handleSubmit = (e) => {\n    e.preventDefault();\n    console.log('Форма отправлена');\n  };\n\n  return (\n    <form onSubmit={handleSubmit}>\n      <button type='submit'>Отправить форму</button>\n    </form>\n  );\n};\n\nexport default PreventDefaultExample;"
+    },
+    {
+      "id": "event3",
+      "name": "Events: Delegating Events",
+      "content": "# Delegating Events\n- Делегирование событий.\n- Один обработчик для нескольких элементов.\n- Пример: `<ul onClick={handleClick}>` для всех `<li>`.\n- Уменьшает количество обработчиков.\n- React автоматически делегирует события.",
+      "category": "Events",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React from 'react';\n\nconst EventDelegation = () => {\n  const handleClick = (e) => {\n    console.log('Элемент нажат:', e.target.textContent);\n  };\n\n  return (\n    <ul onClick={handleClick}>\n      <li>Элемент 1</li>\n      <li>Элемент 2</li>\n      <li>Элемент 3</li>\n    </ul>\n  );\n};\n\nexport default EventDelegation;"
+    },
+    {
+      "id": "event4",
+      "name": "Events: Capturing Phase",
+      "content": "# Capturing Phase\n- Фаза захвата событий.\n- Выполняется перед фазой всплытия.\n- Пример: `onClickCapture`\n- Редко используется.\n- Удобно для специфических случаев.",
+      "category": "Events",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React from 'react';\n\nconst CapturePhaseExample = () => {\n  const handleCapture = () => {\n    console.log('Захват события');\n  };\n\n  return (\n    <div onClickCapture={handleCapture}>\n      <button>Нажми меня</button>\n    </div>\n  );\n};\n\nexport default CapturePhaseExample;"
+    },
+    {
+      "id": "event5",
+      "name": "Events: Bubbling Phase",
+      "content": "# Bubbling Phase\n- Фаза всплытия событий.\n- Выполняется после фазы захвата.\n- Пример: `onClick`\n- Используется по умолчанию.\n- React автоматически поддерживает всплытие.",
+      "category": "Events",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React from 'react';\n\nconst BubblingExample = () => {\n  const handleParent = () => {\n    console.log('Родительский обработчик');\n  };\n\n  const handleChild = () => {\n    console.log('Дочерний обработчик');\n  };\n\n  return (\n    <div onClick={handleParent}>\n      <button onClick={handleChild}>Нажми меня</button>\n    </div>\n  );\n};\n\nexport default BubblingExample;"
+    },
+    {
+      "id": "key1",
+      "name": "Key: Importance of Keys",
+      "content": "# Importance of Keys\n- Ключи помогают React идентифицировать элементы списка.\n- Ускоряют рендеринг.\n- Пример: `key={item.id}`\n- React предупреждает при отсутствии ключей.\n- Используйте уникальные значения.",
+      "category": "Key",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React from 'react';\n\nconst ListWithKeys = ({ items }) => {\n  return (\n    <ul>\n      {items.map((item) => (\n        <li key={item.id}>{item.name}</li>\n      ))}\n    </ul>\n  );\n};\n\nexport default ListWithKeys;"
+    },
+    {
+      "id": "key2",
+      "name": "Key: Avoiding Index as Key",
+      "content": "# Avoiding Index as Key\n- Не используйте индекс массива как ключ.\n- Это может привести к проблемам при обновлении списка.\n- Пример: `key={item.id}` вместо `key={index}`.\n- React требует уникальные ключи.\n- Улучшает производительность.",
+      "category": "Key",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React from 'react';\n\nconst SafeList = ({ items }) => {\n  return (\n    <ul>\n      {items.map((item) => (\n        <li key={item.id}>{item.name}</li>\n      ))}\n    </ul>\n  );\n};\n\nexport default SafeList;"
+    },
+    {
+      "id": "key3",
+      "name": "Key: Reordering Lists",
+      "content": "# Reordering Lists\n- При перестановке элементов React использует ключи.\n- Это оптимизирует рендеринг.\n- Пример: Перемещение элементов в списке.\n- Ключи должны быть уникальными.\n- React предупреждает при дублировании ключей.",
+      "category": "Key",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst ReorderList = () => {\n  const [items, setItems] = useState(['Item 1', 'Item 2', 'Item 3']);\n\n  const reorder = () => {\n    setItems(items.reverse());\n  };\n\n  return (\n    <div>\n      <ul>\n        {items.map((item, index) => (\n          <li key={index}>{item}</li>\n        ))}\n      </ul>\n      <button onClick={reorder}>Перемешать список</button>\n    </div>\n  );\n};\n\nexport default ReorderList;"
+    },
+    {
+      "id": "key4",
+      "name": "Key: Dynamic Lists",
+      "content": "# Dynamic Lists\n- Ключи важны для динамических списков.\n- React использует их для отслеживания изменений.\n- Пример: Добавление и удаление элементов.\n- Ключи должны быть уникальными.\n- Улучшают производительность.",
+      "category": "Key",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst DynamicList = () => {\n  const [items, setItems] = useState([]);\n\n  const addItem = () => {\n    setItems([...items, `Item ${items.length + 1}`]);\n  };\n\n  const removeItem = (id) => {\n    setItems(items.filter((_, index) => index !== id));\n  };\n\n  return (\n    <div>\n      <button onClick={addItem}>Добавить элемент</button>\n      <ul>\n        {items.map((item, index) => (\n          <li key={index}>\n            {item}{' '}\n            <button onClick={() => removeItem(index)}>Удалить</button>\n          </li>\n        ))}\n      </ul>\n    </div>\n  );\n};\n\nexport default DynamicList;"
+    },
+    {
+      "id": "key5",
+      "name": "Key: Performance Optimization",
+      "content": "# Performance Optimization\n- Ключи помогают оптимизировать рендеринг.\n- React использует их для минимизации перерисовок.\n- Пример: `key={item.id}`\n- Улучшает用户体验.\n- React предупреждает при некорректном использовании.",
+      "category": "Key",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useState } from 'react';\n\nconst OptimizedList = () => {\n  const [items, setItems] = useState([{ id: 1, name: 'Item 1' }, { id: 2, name: 'Item 2' }]);\n\n  const updateItem = (id) => {\n    setItems(\n      items.map((item) => (item.id === id ? { ...item, name: 'Updated Item' } : item))\n    );\n  };\n\n  return (\n    <ul>\n      {items.map((item) => (\n        <li key={item.id}>\n          {item.name}{' '}\n          <button onClick={() => updateItem(item.id)}>Обновить</button>\n        </li>\n      ))}\n    </ul>\n  );\n};\n\nexport default OptimizedList;"
+    },
+    {
+      "id": "ref1",
+      "name": "Refs: Accessing DOM Nodes",
+      "content": "# Accessing DOM Nodes\n- Refs позволяют получить доступ к DOM-элементам.\n- Пример: `useRef()` или `createRef()`.\n- Используются редко.\n- React рекомендует избегать прямого доступа к DOM.\n- Полезно для фокусировки или анимаций.",
+      "category": "Refs",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React, { useRef } from 'react';\n\nconst FocusInput = () => {\n  const inputRef = useRef(null);\n\n  const focusInput = () => {\n    inputRef.current.focus();\n  };\n\n  return (\n    <div>\n      <input ref={inputRef} type='text' />\n      <button onClick={focusInput}>Сфокусироваться</button>\n    </div>\n  );\n};\n\nexport default FocusInput;"
+    },
+    {
+      "id": "ref2",
+      "name": "Refs: Managing State with Refs",
+      "content": "# Managing State with Refs\n- Refs могут использоваться для хранения значений.\n- Не вызывают повторный рендер.\n- Пример: `const countRef = useRef(0);`\n- Полезно для счетчиков или таймеров.\n- React рекомендует использовать state для UI.",
+      "category": "Refs",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useRef } from 'react';\n\nconst CounterWithRef = () => {\n  const countRef = useRef(0);\n\n  const increment = () => {\n    countRef.current += 1;\n    console.log('Счетчик:', countRef.current);\n  };\n\n  return <button onClick={increment}>Увеличить</button>;\n};\n\nexport default CounterWithRef;"
+    },
+    {
+      "id": "ref3",
+      "name": "Refs: Forwarding Refs",
+      "content": "# Forwarding Refs\n- Передача refs между компонентами.\n- Используется с помощью `forwardRef`.\n- Пример: `React.forwardRef((props, ref) => ...)`\n- Удобно для работы с библиотечными компонентами.\n- React предоставляет удобный API.",
+      "category": "Refs",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { forwardRef, useRef } from 'react';\n\nconst FancyInput = forwardRef((props, ref) => {\n  return <input ref={ref} type='text' {...props} />;\n});\n\nconst ParentComponent = () => {\n  const inputRef = useRef(null);\n\n  const focusInput = () => {\n    inputRef.current.focus();\n  };\n\n  return (\n    <div>\n      <FancyInput ref={inputRef} />\n      <button onClick={focusInput}>Сфокусироваться</button>\n    </div>\n  );\n};\n\nexport default ParentComponent;"
+    },
+    {
+      "id": "ref4",
+      "name": "Refs: Imperative Handles",
+      "content": "# Imperative Handles\n- Настройка поведения компонента через ref.\n- Используется с `useImperativeHandle`.\n- Пример: `useImperativeHandle(ref, () => ({ focus: () => inputRef.current.focus() }));`\n- Удобно для взаимодействия между компонентами.\n- React предоставляет гибкий API.",
+      "category": "Refs",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useRef, useImperativeHandle, forwardRef } from 'react';\n\nconst CustomInput = forwardRef((props, ref) => {\n  const inputRef = useRef();\n\n  useImperativeHandle(ref, () => ({\n    focus: () => inputRef.current.focus(),\n  }));\n\n  return <input ref={inputRef} type='text' />;\n});\n\nconst ParentComponent = () => {\n  const inputRef = useRef();\n\n  const focusInput = () => {\n    inputRef.current.focus();\n  };\n\n  return (\n    <div>\n      <CustomInput ref={inputRef} />\n      <button onClick={focusInput}>Сфокусироваться</button>\n    </div>\n  );\n};\n\nexport default ParentComponent;"
+    },
+    {
+      "id": "ref5",
+      "name": "Refs: Mutating Values",
+      "content": "# Mutating Values\n- Refs могут использоваться для мутации значений.\n- Не вызывают повторный рендер.\n- Пример: `const timerRef = useRef(null);`\n- Полезно для таймеров или WebSocket.\n- React рекомендует использовать state для UI.",
+      "category": "Refs",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useRef, useEffect } from 'react';\n\nconst TimerExample = () => {\n  const timerRef = useRef(null);\n\n  useEffect(() => {\n    timerRef.current = setInterval(() => {\n      console.log('Таймер сработал');\n    }, 1000);\n\n    return () => clearInterval(timerRef.current);\n  }, []);\n\n  return <p>Таймер работает...</p>;\n};\n\nexport default TimerExample;"
+    },
+    {
+      "id": "async1",
+      "name": "Asynchronous: Promises",
+      "content": "# Promises\n- Асинхронные операции с помощью Promise.\n- Пример: `fetch().then()`\n- Удобно для работы с API.\n- React не блокирует рендеринг при асинхронных операциях.\n- Совместимость с async/await.",
+      "category": "Asynchronous",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "code": "import React, { useState, useEffect } from 'react';\n\nconst FetchData = () => {\n  const [data, setData] = useState(null);\n\n  useEffect(() => {\n    fetch('https://api.example.com/data')\n      .then((response) => response.json())\n      .then((data) => setData(data));\n  }, []);\n\n  return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;\n};\n\nexport default FetchData;"
+    },
+    {
+      "id": "async2",
+      "name": "Asynchronous: Async/Await",
+      "content": "# Async/Await\n- Более читаемый способ работы с асинхронными операциями.\n- Пример: `async function fetchData() { await fetch(...) }`\n- Упрощает обработку ошибок.\n- React совместим с async/await.\n- Современный подход к асинхронности.",
+      "category": "Asynchronous",
+      "createdAt": "2023-10-02T12:00:00Z",
+      "code": "import React, { useState, useEffect } from 'react';\n\nconst AsyncAwaitExample = () => {\n  const [data, setData] = useState(null);\n\n  useEffect(() => {\n    const fetchData = async () => {\n      const response = await fetch('https://api.example.com/data');\n      const result = await response.json();\n      setData(result);\n    };\n\n    fetchData();\n  }, []);\n\n  return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;\n};\n\nexport default AsyncAwaitExample;"
+    },
+    {
+      "id": "async3",
+      "name": "Asynchronous: Error Handling",
+      "content": "# Error Handling\n- Обработка ошибок в асинхронных операциях.\n- Пример: `try { await fetch(...) } catch (error) { console.error(error) }`\n- Упрощает отладку.\n- React рекомендует использовать try/catch.\n- Полезно для robust кода.",
+      "category": "Asynchronous",
+      "createdAt": "2023-10-03T12:00:00Z",
+      "code": "import React, { useState, useEffect } from 'react';\n\nconst ErrorHandlingExample = () => {\n  const [data, setData] = useState(null);\n  const [error, setError] = useState(null);\n\n  useEffect(() => {\n    const fetchData = async () => {\n      try {\n        const response = await fetch('https://api.example.com/data');\n        if (!response.ok) throw new Error('Ошибка сервера');\n        const result = await response.json();\n        setData(result);\n      } catch (err) {\n        setError(err.message);\n      }\n    };\n\n    fetchData();\n  }, []);\n\n  if (error) return <div>Ошибка: {error}</div>;\n  return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;\n};\n\nexport default ErrorHandlingExample;"
+    },
+    {
+      "id": "async4",
+      "name": "Asynchronous: Cancellation",
+      "content": "# Cancellation\n- Отмена асинхронных операций.\n- Пример: `AbortController`\n- Удобно для долгих запросов.\n- React не предоставляет встроенную отмену.\n- Требует дополнительных библиотек или решений.",
+      "category": "Asynchronous",
+      "createdAt": "2023-10-04T12:00:00Z",
+      "code": "import React, { useState, useEffect } from 'react';\n\nconst CancellableFetch = () => {\n  const [data, setData] = useState(null);\n  const controller = new AbortController();\n\n  useEffect(() => {\n    const fetchData = async () => {\n      try {\n        const response = await fetch('https://api.example.com/data', { signal: controller.signal });\n        const result = await response.json();\n        setData(result);\n      } catch (err) {\n        if (err.name !== 'AbortError') console.error(err);\n      }\n\n    return () => controller.abort();\n  }, []);\n\n  return <div>{data ? JSON.stringify(data) : 'Загрузка...'}</div>;\n};\n\nexport default CancellableFetch;"
+    },
+    {
+      "id": "async5",
+      "name": "Asynchronous: Throttling and Debouncing",
+      "content": "# Throttling and Debouncing\n- Ограничение частоты вызова функций.\n- Throttle: Ограничивает вызов до N раз в секунду.\n- Debounce: Откладывает вызов до паузы.\n- Пример: `lodash.throttle` или `lodash.debounce`\n- Улучшает производительность.",
+      "category": "Asynchronous",
+      "createdAt": "2023-10-05T12:00:00Z",
+      "code": "import React, { useState } from 'react';\nimport _ from 'lodash';\n\nconst SearchInput = () => {\n  const [query, setQuery] = useState('');\n\n  const debouncedSearch = _.debounce((q) => {\n    console.log('Поиск:', q);\n  }, 500);\n\n  const handleChange = (e) => {\n    setQuery(e.target.value);\n    debouncedSearch(e.target.value);\n  };\n\n  return <input type='text' value={query} onChange={handleChange} placeholder='Поиск...' />;\n};\n\nexport default SearchInput;"
+    },
+    {
+      "id": "1740033270562",
+      "name": "wefwef",
+      "content": "wef",
+      "category": "wef",
+      "createdAt": "2025-02-20T06:34:30.562Z",
+      "code": ""
+    },
+    {
+      "id": "1740033396074",
+      "name": "RTK Query",
+      "content": "Работа с rtk",
+      "category": "RTK",
+      "createdAt": "2025-02-20T06:36:36.074Z",
+      "code": ""
+    }
+  ],
+  "hooks": [
+    {
+      "id": "12356243-231234-231",
+      "name": "useReducer",
+      "description": "Хук для управления сложным состоянием с использованием reducer.",
+      "code": "import React, { useReducer } from \"react\";\n\nconst initialState = { count: 0 };\n\nfunction reducer(state, action) {\n  switch (action.type) {\n    case 'increment':\n      return { count: state.count + 1 };\n    case 'decrement':\n      return { count: state.count - 1 };\n    default:\n      throw new Error();\n  }\n}\n\nconst Counter = () => {\n  const [state, dispatch] = useReducer(reducer, initialState);\n\n  return (\n    <div>\n      <p>Счетчик: {state.count}</p>\n      <button onClick={() => dispatch({ type: 'increment' })}>Увеличить</button>\n      <button onClick={() => dispatch({ type: 'decrement' })}>Уменьшить</button>\n    </div>\n  );\n};",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#usereducer"
+    },
+    {
+      "id": "1231543-231234-231",
+      "name": "useCallback",
+      "description": "Хук для мемоизации функций, чтобы избежать их пересоздания при каждом рендере.",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#usecallback",
+      "code": "import React, { useState, useCallback } from \"react\";\n\nconst Button = React.memo(({ onClick, children }) => {\n  console.log('Рендер кнопки:', children);\n  return <button onClick={onClick}>{children}</button>;\n});\n\nconst App = () => {\n  const [count, setCount] = useState(0);\n\n  const increment = useCallback(() => {\n    setCount(c => c + 1);\n  }, []);\n\n  return (\n    <div>\n      <p>Счетчик: {count}</p>\n      <Button onClick={increment}>Увеличить</Button>\n    </div>\n  );\n};"
+    },
+    {
+      "id": "1451543-231234-231",
+      "name": "useMemo",
+      "description": "Хук для кэширования значений, которые дорого вычисляются.",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#usememo",
+      "code": "import React, { useState, useMemo } from \"react\";\n\nconst ExpensiveCalculation = ({ number }) => {\n  const result = useMemo(() => {\n    // Имитация дорогого вычисления\n    return number * 2;\n  }, [number]);\n\n  return <div>Результат: {result}</div>;\n};\n\nconst App = () => {\n  const [number, setNumber] = useState(1);\n\n  return (\n    <div>\n      <input type='number' value={number} onChange={e => setNumber(Number(e.target.value))} />\n      <ExpensiveCalculation number={number} />\n    </div>\n  );\n};"
+    },
+    {
+      "id": "1231543-231431234-231",
+      "name": "useRef",
+      "description": "Хук для создания постоянной ссылки на DOM-элемент или сохранения значения между рендерами.",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#useref",
+      "code": "import React, { useRef } from \"react\";\n\nconst FocusInput = () => {\n  const inputRef = useRef(null);\n\n  const focusInput = () => {\n    inputRef.current.focus();\n  };\n\n  return (\n    <div>\n      <input ref={inputRef} type='text' />\n      <button onClick={focusInput}>Сфокусироваться на вводе</button>\n    </div>\n  );\n};"
+    },
+    {
+      "id": "1231543-231234-2121",
+      "name": "useImperativeHandle",
+      "description": "Хук для настройки экземпляра ref, передаваемого родительскому компоненту.",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#useimperativehandle",
+      "code": "import React, { useImperativeHandle, forwardRef, useRef } from \"react\";\n\nconst CustomInput = forwardRef((props, ref) => {\n  const inputRef = useRef();\n\n  useImperativeHandle(ref, () => ({\n    focus: () => {\n      inputRef.current.focus();\n    }\n  }));\n\n  return <input ref={inputRef} type='text' />;\n});\n\nconst ParentComponent = () => {\n  const inputRef = useRef();\n\n  return (\n    <div>\n      <CustomInput ref={inputRef} />\n      <button onClick={() => inputRef.current.focus()}>Сфокусироваться на вводе</button>\n    </div>\n  );\n};"
+    },
+    {
+      "id": "1231543-231234-254",
+      "name": "useLayoutEffect",
+      "description": "Хук для выполнения побочных эффектов синхронно после рендера.",
+      "officialDocLink": "https://reactjs.org/docs/hooks-reference.html#uselayouteffect",
+      "code": "import React, { useLayoutEffect, useRef } from \"react\";\n\nconst LayoutEffectExample = () => {\n  const divRef = useRef();\n\n  useLayoutEffect(() => {\n    divRef.current.style.border = '2px solid red';\n  }, []);\n\n  return <div ref={divRef}>Этот элемент будет обведен красной рамкой.</div>;\n};"
+    }
+  ],
+  "cheatsheet": [
+    {
+      "id": "7375",
+      "name": "useState",
+      "description": "Управление состоянием в функциональных компонентах.\n\n",
+      "officialDocLink": "",
+      "code": "import React, { useState } from \"react\";\n\nconst Counter = () => {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>Count: {count}</p>\n      <button onClick={() => setCount(count + 1)}>Increment</button>\n    </div>\n  );\n};\n\nexport default Counter;"
+    }
+  ]
+}
