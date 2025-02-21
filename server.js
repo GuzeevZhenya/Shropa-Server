@@ -9,12 +9,12 @@ const middlewares = jsonServer.defaults();
 app.use(middlewares);
 app.use('/api', router);
 
-// Укажите статические файлы
-app.use(express.static(path.join(__dirname, 'client/build')));
+// Укажите статические файлы (если у вас есть папка src с билдом)
+app.use(express.static(path.join(__dirname, 'build')));
 
 // Обработка всех маршрутов
 app.get('/*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
 const PORT = process.env.PORT || 10000;
